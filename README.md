@@ -10,10 +10,4 @@ The Aphasia Support Application is designed to assist individuals with aphasia i
 - **Personalized Support:** Offers customizable support options tailored to individual needs.
 - **Audio and Visual Assistance:** Supplies audio and visual guides to improve understanding.
 
-## Installation
 
-To install the application on your computer or mobile device, follow these steps:
-
-1. **Clone the Repository:**
-   ```bash
-   [git clone https://github.com/your_username/aphasia-support-application.git](https://github.com/emirerdemir/Afazili-Bireylere-Destek-Terapi-Uygulamasi)
